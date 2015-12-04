@@ -25,7 +25,7 @@ class Forum{
   boolean deleteForum(){
     //Connection to DB, if not connected 
     //If connected, call checkIfForumExists 
-    // If exists, delete from Database //RDS
+    //If exists, delete from Database //RDS
   }
   
   boolean createForumSubscription(int accessLevel){
