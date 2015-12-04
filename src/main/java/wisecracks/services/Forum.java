@@ -6,14 +6,14 @@ class Forum{
   String creator;
   
   //Primary Constructor:
-  public Forum(String fname, int r, String c_user){
-    radiusInMiles = r;
+  public Forum(String fname, String c_user){
     forumName = fname;
     creator = c_user;
   }
   
   //Secondary Constructor:(when radius not specified)
-  Forum(String fname, int r, String c_user){
+  public Forum(String fname, int r, String c_user){
+    radiusInMiles = r;
     forumName = fname;
     creator = c_user;
   }
