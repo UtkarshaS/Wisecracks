@@ -1,4 +1,4 @@
-package main.java.wisecracks.services;
+package main.java.wisecracks.data;
 
 class Forum{
   String forumName;
