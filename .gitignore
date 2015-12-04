@@ -21,6 +21,7 @@ hs_err_pid*
 
 # Java class files
 *.class
+abc.java
 
 # Generated files
 bin/
