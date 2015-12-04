@@ -1,10 +1,12 @@
+package main.java.wisecracks.services;
+
 class Forum{
   String forumName;
-  floar radiusInMiles = 1; // default value for radius
+  float radiusInMiles = 1; // default value for radius
   String creator;
   
   //Primary Constructor:
-  Forum(String fname, int r, String c_user){
+  public Forum(String fname, int r, String c_user){
     radiusInMiles = r;
     forumName = fname;
     creator = c_user;
