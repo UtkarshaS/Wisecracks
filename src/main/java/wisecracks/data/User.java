@@ -41,12 +41,12 @@ class User {
             statement = connection.prepareStatement(insertStatement);
             statement.setString(1, userId);
             statement.setString(2, firstName);
-            statement.setString(4, lastName);
-            statement.setString(2, addressLine1);
-            statement.setString(2, addressLine2);
-            statement.setString(2, city);
-            statement.setString(2, country);
-            statement.setString(2, profile);
+            statement.setString(3, lastName);
+            statement.setString(4, addressLine1);
+            statement.setString(5, addressLine2);
+            statement.setString(6, city);
+            statement.setString(7, country);
+            statement.setString(8, profile);
             statement.executeUpdate();
             connection.commit();
 
