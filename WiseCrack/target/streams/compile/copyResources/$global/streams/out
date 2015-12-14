@@ -1,7 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/src/main/resources/application.conf,/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/scala-2.11/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/src/main/resources/common.conf,/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/scala-2.11/classes/common.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/src/main/resources/dev.conf,/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/scala-2.11/classes/dev.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/src/main/resources/logback.xml,/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/scala-2.11/classes/logback.xml)[0m
-[0m[[0mdebug[0m] [0m	(/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/src/main/resources/prod.conf,/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/scala-2.11/classes/prod.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/src/main/resources/staging.conf,/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/scala-2.11/classes/staging.conf)[0m
