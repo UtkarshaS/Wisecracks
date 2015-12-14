@@ -10,7 +10,7 @@
 [debug] == resolving dependencies for default#wisecrack$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f0db31
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b2078b
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -19,7 +19,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@360285aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24586d2d
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-json_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->runtime]
@@ -27,7 +27,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@666d3db2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@268506ef
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->runtime]
@@ -35,7 +35,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d82be8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c8d2393
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->runtime]
@@ -43,7 +43,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b3c1758
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ffbba93
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->runtime]
@@ -51,7 +51,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46f2a24e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54314005
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-functional_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->runtime]
@@ -59,7 +59,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65dc585e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@503ed5b1
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->runtime]
@@ -67,7 +67,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.7 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@683f33a7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51f2a4ea
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.7
 [debug] 	found org.joda#joda-convert;1.7 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.7 [compile->runtime]
@@ -75,7 +75,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.joda#joda-convert;1.7 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40738ad2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@286d2ef4
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->runtime]
@@ -83,7 +83,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e75bb2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5914248c
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->runtime]
@@ -91,7 +91,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55261278
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f7ea089
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.0 [compile->runtime]
@@ -99,7 +99,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-contrib_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-contrib_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@122b1eb9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64f8b13b
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-contrib_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-contrib_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-contrib_2.11;2.4.0 [compile->runtime]
@@ -107,7 +107,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-contrib_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-remote_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dcb0da0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@271661fd
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-remote_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.0 [compile->runtime]
@@ -115,7 +115,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-protobuf_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c112c3b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@301b76b8
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-protobuf_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-protobuf_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.0 [compile->runtime]
@@ -123,7 +123,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.netty#netty;3.10.3.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.10.3.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4baea072
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74ea4d9b
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.10.3.Final
 [debug] 	found io.netty#netty;3.10.3.Final in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.netty#netty;3.10.3.Final [compile->runtime]
@@ -131,7 +131,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.netty#netty;3.10.3.Final [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@322f5832
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29914829
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -139,7 +139,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-cluster_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@351be9d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61853fc3
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-cluster_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-cluster_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.0 [compile->runtime]
@@ -147,7 +147,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@494f36b8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35cf1a96
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-cluster-tools_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 [compile->runtime]
@@ -155,7 +155,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-persistence_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b478cf0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8902ad1
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-persistence_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-persistence_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence_2.11;2.4.0 [compile->runtime]
@@ -163,7 +163,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-persistence_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12e4fc66
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b4fc5c4
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.4.0 [compile->runtime]
@@ -171,7 +171,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70e12d61
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@81de2ac
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.12
 [debug] 	found org.slf4j#slf4j-api;1.7.12 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.12 [compile->runtime]
@@ -179,7 +179,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.12 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.3 [compile->default(compile)]
 [info] Resolving io.spray#spray-can_2.11;1.3.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a895294
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a783877
 [debug] sbt-chain: module revision found in cache: io.spray#spray-can_2.11;1.3.3
 [debug] 	found io.spray#spray-can_2.11;1.3.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.3 [compile->runtime]
@@ -187,7 +187,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.3 [compile->default(compile)]
 [info] Resolving io.spray#spray-io_2.11;1.3.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6963cdfc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59f8d475
 [debug] sbt-chain: module revision found in cache: io.spray#spray-io_2.11;1.3.3
 [debug] 	found io.spray#spray-io_2.11;1.3.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.3 [compile->runtime]
@@ -195,7 +195,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.3 [compile->default(compile)]
 [info] Resolving io.spray#spray-util_2.11;1.3.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c1ea87c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dbc940a
 [debug] sbt-chain: module revision found in cache: io.spray#spray-util_2.11;1.3.3
 [debug] 	found io.spray#spray-util_2.11;1.3.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.3 [compile->runtime]
@@ -203,7 +203,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.3 [compile->default(compile)]
 [info] Resolving io.spray#spray-http_2.11;1.3.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c20f6bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20413cae
 [debug] sbt-chain: module revision found in cache: io.spray#spray-http_2.11;1.3.3
 [debug] 	found io.spray#spray-http_2.11;1.3.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.3 [compile->runtime]
@@ -211,7 +211,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.7 [compile->default(compile)]
 [info] Resolving org.parboiled#parboiled-scala_2.11;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d241004
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fb8f6ff
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-scala_2.11;1.1.7
 [debug] 	found org.parboiled#parboiled-scala_2.11;1.1.7 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.7 [compile->runtime]
@@ -219,7 +219,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.7 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.7 [compile->default(compile)]
 [info] Resolving org.parboiled#parboiled-core;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@270f14cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7434cd49
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-core;1.1.7
 [debug] 	found org.parboiled#parboiled-core;1.1.7 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.7 [compile->runtime]
@@ -227,7 +227,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.7 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.github.kikuomax#spray-jwt-shapeless2_2.11;0.0.1 [compile->default(compile)]
 [info] Resolving com.github.kikuomax#spray-jwt-shapeless2_2.11;0.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76afcb9e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f9daa16
 [debug] sbt-chain: module revision found in cache: com.github.kikuomax#spray-jwt-shapeless2_2.11;0.0.1
 [debug] 	found com.github.kikuomax#spray-jwt-shapeless2_2.11;0.0.1 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.github.kikuomax#spray-jwt-shapeless2_2.11;0.0.1 [compile->runtime]
@@ -235,7 +235,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.github.kikuomax#spray-jwt-shapeless2_2.11;0.0.1 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-routing-shapeless2_2.11;1.3.2 [compile->default(compile)]
 [info] Resolving io.spray#spray-routing-shapeless2_2.11;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a42a014
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1aa94704
 [debug] sbt-chain: module revision found in cache: io.spray#spray-routing-shapeless2_2.11;1.3.2
 [debug] 	found io.spray#spray-routing-shapeless2_2.11;1.3.2 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-routing-shapeless2_2.11;1.3.2 [compile->runtime]
@@ -243,7 +243,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-routing-shapeless2_2.11;1.3.2 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->default(compile)]
 [info] Resolving io.spray#spray-httpx_2.11;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@eb47050
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42ef1864
 [debug] sbt-chain: module revision found in cache: io.spray#spray-httpx_2.11;1.3.2
 [debug] 	found io.spray#spray-httpx_2.11;1.3.2 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->runtime]
@@ -251,7 +251,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16d2e46c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5fd42de
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
@@ -259,7 +259,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->default(compile)]
 [info] Resolving org.jvnet.mimepull#mimepull;1.9.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e009bde
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1714b7c5
 [debug] sbt-chain: module revision found in cache: org.jvnet.mimepull#mimepull;1.9.4
 [debug] 	found org.jvnet.mimepull#mimepull;1.9.4 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->runtime]
@@ -267,7 +267,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;2.0.0 [compile->default(compile)]
 [info] Resolving com.chuusai#shapeless_2.11;2.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5990ea3f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31ace345
 [debug] sbt-chain: module revision found in cache: com.chuusai#shapeless_2.11;2.0.0
 [debug] 	found com.chuusai#shapeless_2.11;2.0.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;2.0.0 [compile->runtime]
@@ -275,7 +275,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;2.0.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.nimbusds#nimbus-jose-jwt;3.5 [compile->default(compile)]
 [info] Resolving com.nimbusds#nimbus-jose-jwt;3.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@648eee34
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b02ec3b
 [debug] sbt-chain: module revision found in cache: com.nimbusds#nimbus-jose-jwt;3.5
 [debug] 	found com.nimbusds#nimbus-jose-jwt;3.5 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.nimbusds#nimbus-jose-jwt;3.5 [compile->runtime]
@@ -283,7 +283,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.nimbusds#nimbus-jose-jwt;3.5 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->net.jcip#jcip-annotations;1.0 [compile->default(compile)]
 [info] Resolving net.jcip#jcip-annotations;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@250dfa78
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50c01398
 [debug] sbt-chain: module revision found in cache: net.jcip#jcip-annotations;1.0
 [debug] 	found net.jcip#jcip-annotations;1.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->net.jcip#jcip-annotations;1.0 [compile->runtime]
@@ -291,7 +291,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->net.jcip#jcip-annotations;1.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->net.minidev#json-smart;1.1.1 [compile->default(compile)]
 [info] Resolving net.minidev#json-smart;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29bf6a45
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10448bfd
 [debug] sbt-chain: module revision found in cache: net.minidev#json-smart;1.1.1
 [debug] 	found net.minidev#json-smart;1.1.1 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->net.minidev#json-smart;1.1.1 [compile->runtime]
@@ -299,7 +299,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->net.minidev#json-smart;1.1.1 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.bouncycastle#bcprov-jdk15on;1.51 [compile->default(compile)]
 [info] Resolving org.bouncycastle#bcprov-jdk15on;1.51 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20f4dc0f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5afb4e9d
 [debug] sbt-chain: module revision found in cache: org.bouncycastle#bcprov-jdk15on;1.51
 [debug] 	found org.bouncycastle#bcprov-jdk15on;1.51 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.bouncycastle#bcprov-jdk15on;1.51 [compile->runtime]
@@ -307,7 +307,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.bouncycastle#bcprov-jdk15on;1.51 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d603362
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79aabe5b
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -315,7 +315,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-json_2.11;1.3.2 [compile->default(compile)]
 [info] Resolving io.spray#spray-json_2.11;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d675873
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@169e5094
 [debug] sbt-chain: module revision found in cache: io.spray#spray-json_2.11;1.3.2
 [debug] 	found io.spray#spray-json_2.11;1.3.2 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-json_2.11;1.3.2 [compile->runtime]
@@ -323,7 +323,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->io.spray#spray-json_2.11;1.3.2 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-native_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-native_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29bfa26e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@547c3168
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-native_2.11;3.2.11
 [debug] 	found org.json4s#json4s-native_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-native_2.11;3.2.11 [compile->runtime]
@@ -331,7 +331,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-native_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-core_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fced972
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f111466
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.11;3.2.11
 [debug] 	found org.json4s#json4s-core_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-core_2.11;3.2.11 [compile->runtime]
@@ -339,7 +339,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-core_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.11;3.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55366930
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@564e2c2
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.11;3.2.11
 [debug] 	found org.json4s#json4s-ast_2.11;3.2.11 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->runtime]
@@ -347,7 +347,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.11 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b0f1683
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65684d86
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -355,7 +355,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@577686d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d036f3d
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.11.0
 [debug] 	found org.scala-lang#scalap;2.11.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->runtime]
@@ -363,7 +363,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f212128
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60e7f302
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.0
 [debug] 	found org.scala-lang#scala-compiler;2.11.0 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->runtime]
@@ -371,7 +371,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19d8f483
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@231d6803
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime]
@@ -379,7 +379,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-joda;2.6.3 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-joda;2.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d108891
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f5280a6
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-joda;2.6.3
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-joda;2.6.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-joda;2.6.3 [compile->runtime]
@@ -387,7 +387,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-joda;2.6.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.6.3 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@430e6fe0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@558f6ef0
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.6.3
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.6.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.6.3 [compile->runtime]
@@ -395,7 +395,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.6.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.6.3 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1566fbe3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bd251ef
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.6.3
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.6.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.6.3 [compile->runtime]
@@ -403,7 +403,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.6.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.3 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d2f96cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cd324a6
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.3
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.3 [compile->runtime]
@@ -411,7 +411,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.6.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5792a24
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60af64c5
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-reflect;2.11.7
@@ -420,7 +420,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.6.3 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b163e50
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@266a9733
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.6.3
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.6.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.6.3 [compile->runtime]
@@ -428,7 +428,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.6.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.module#jackson-module-paranamer;2.6.3 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-paranamer;2.6.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70ebf3c9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d38385a
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-paranamer;2.6.3
 [debug] 	found com.fasterxml.jackson.module#jackson-module-paranamer;2.6.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.module#jackson-module-paranamer;2.6.3 [compile->runtime]
@@ -436,7 +436,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.fasterxml.jackson.module#jackson-module-paranamer;2.6.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-support;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-support;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b5c6c04
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a65b579
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-support;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-support;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-support;1.9.23 [compile->runtime]
@@ -444,7 +444,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-support;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-core;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-core;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7849f38c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d9d8260
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-core;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-core;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-core;1.9.23 [compile->runtime]
@@ -452,7 +452,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-core;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.1.3 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@398015c6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3854ccb5
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.3
 [debug] 	found commons-logging#commons-logging;1.1.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.1.3 [compile->runtime]
@@ -460,7 +460,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-logging#commons-logging;1.1.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.3.4 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15ffbfc2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@584757f7
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.3.4
 [debug] 	found org.apache.httpcomponents#httpclient;4.3.4 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.3.4 [compile->runtime]
@@ -468,7 +468,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpclient;4.3.4 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.3.2 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@224fb1f9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@371a0c59
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.3.2
 [debug] 	found org.apache.httpcomponents#httpcore;4.3.2 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.3.2 [compile->runtime]
@@ -476,7 +476,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->org.apache.httpcomponents#httpcore;4.3.2 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.6 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4110b7e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60abe19a
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.6
 [debug] 	found commons-codec#commons-codec;1.6 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.6 [compile->runtime]
@@ -484,7 +484,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->commons-codec#commons-codec;1.6 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->joda-time#joda-time;2.9.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.9.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8b4290c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26596d5a
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.9.1
 [debug] 	found joda-time#joda-time;2.9.1 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->joda-time#joda-time;2.9.1 [compile->runtime]
@@ -492,7 +492,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->joda-time#joda-time;2.9.1 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-simpledb;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-simpledb;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19723c94
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@361f512f
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-simpledb;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-simpledb;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-simpledb;1.9.23 [compile->runtime]
@@ -500,7 +500,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-simpledb;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-simpleworkflow;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-simpleworkflow;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b91b83c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78469186
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-simpleworkflow;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-simpleworkflow;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-simpleworkflow;1.9.23 [compile->runtime]
@@ -508,7 +508,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-simpleworkflow;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-storagegateway;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-storagegateway;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@658f1ecc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a8d87d0
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-storagegateway;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-storagegateway;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-storagegateway;1.9.23 [compile->runtime]
@@ -516,7 +516,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-storagegateway;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-route53;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-route53;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dd566a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@792988cc
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-route53;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-route53;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-route53;1.9.23 [compile->runtime]
@@ -524,7 +524,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-route53;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-s3;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-s3;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@549f36e5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8f949c1
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-s3;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-s3;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-s3;1.9.23 [compile->runtime]
@@ -532,7 +532,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-s3;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-kms;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-kms;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28866483
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fb393d7
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-kms;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-kms;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-kms;1.9.23 [compile->runtime]
@@ -540,7 +540,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-kms;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-importexport;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-importexport;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3245f186
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e112c4a
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-importexport;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-importexport;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-importexport;1.9.23 [compile->runtime]
@@ -548,7 +548,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-importexport;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sts;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-sts;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e08a37f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71fa5a1c
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-sts;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-sts;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sts;1.9.23 [compile->runtime]
@@ -556,7 +556,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sts;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sqs;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-sqs;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cef0abd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31b06b75
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-sqs;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-sqs;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sqs;1.9.23 [compile->runtime]
@@ -564,7 +564,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sqs;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-rds;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-rds;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31345716
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@237acc70
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-rds;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-rds;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-rds;1.9.23 [compile->runtime]
@@ -572,7 +572,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-rds;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-redshift;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-redshift;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@215818e0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5267e9b7
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-redshift;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-redshift;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-redshift;1.9.23 [compile->runtime]
@@ -580,7 +580,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-redshift;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticbeanstalk;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-elasticbeanstalk;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b8dcc4a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5239bd45
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-elasticbeanstalk;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-elasticbeanstalk;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticbeanstalk;1.9.23 [compile->runtime]
@@ -588,7 +588,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticbeanstalk;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-glacier;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-glacier;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19ff2369
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f24b390
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-glacier;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-glacier;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-glacier;1.9.23 [compile->runtime]
@@ -596,7 +596,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-glacier;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sns;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-sns;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62dd808b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a6bca2
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-sns;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-sns;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sns;1.9.23 [compile->runtime]
@@ -604,7 +604,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-sns;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-iam;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-iam;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@301b4d1c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d174164
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-iam;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-iam;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-iam;1.9.23 [compile->runtime]
@@ -612,7 +612,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-iam;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-datapipeline;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-datapipeline;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@686c7d41
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@611cdcd8
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-datapipeline;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-datapipeline;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-datapipeline;1.9.23 [compile->runtime]
@@ -620,7 +620,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-datapipeline;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticloadbalancing;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-elasticloadbalancing;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@651b977f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@565f49ee
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-elasticloadbalancing;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-elasticloadbalancing;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticloadbalancing;1.9.23 [compile->runtime]
@@ -628,7 +628,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticloadbalancing;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-emr;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-emr;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dfb2b7f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40413a8b
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-emr;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-emr;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-emr;1.9.23 [compile->runtime]
@@ -636,7 +636,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-emr;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticache;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-elasticache;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f6e981e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51b94f84
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-elasticache;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-elasticache;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticache;1.9.23 [compile->runtime]
@@ -644,7 +644,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elasticache;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elastictranscoder;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-elastictranscoder;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fbea512
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42ca656d
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-elastictranscoder;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-elastictranscoder;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elastictranscoder;1.9.23 [compile->runtime]
@@ -652,7 +652,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-elastictranscoder;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ec2;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-ec2;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5dced45e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f1928c3
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-ec2;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-ec2;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ec2;1.9.23 [compile->runtime]
@@ -660,7 +660,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ec2;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-dynamodb;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-dynamodb;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@492a806e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a0fb8a6
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-dynamodb;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-dynamodb;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-dynamodb;1.9.23 [compile->runtime]
@@ -668,7 +668,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-dynamodb;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudtrail;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cloudtrail;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63c89e77
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21d2179d
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cloudtrail;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cloudtrail;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudtrail;1.9.23 [compile->runtime]
@@ -676,7 +676,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudtrail;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudwatch;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cloudwatch;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42c5b7d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3540353b
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cloudwatch;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cloudwatch;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudwatch;1.9.23 [compile->runtime]
@@ -684,7 +684,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudwatch;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-logs;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-logs;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56a61fbd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b6e3c8
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-logs;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-logs;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-logs;1.9.23 [compile->runtime]
@@ -692,7 +692,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-logs;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cognitoidentity;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cognitoidentity;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61146e83
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@483fb886
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cognitoidentity;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cognitoidentity;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cognitoidentity;1.9.23 [compile->runtime]
@@ -700,7 +700,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cognitoidentity;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cognitosync;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cognitosync;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43f192
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d35b9ca
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cognitosync;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cognitosync;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cognitosync;1.9.23 [compile->runtime]
@@ -708,7 +708,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cognitosync;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-directconnect;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-directconnect;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2eb8a2d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f8cdfed
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-directconnect;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-directconnect;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-directconnect;1.9.23 [compile->runtime]
@@ -716,7 +716,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-directconnect;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudformation;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cloudformation;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ff7e230
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@261a8603
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cloudformation;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cloudformation;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudformation;1.9.23 [compile->runtime]
@@ -724,7 +724,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudformation;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudfront;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cloudfront;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40628770
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b546d2b
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cloudfront;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cloudfront;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudfront;1.9.23 [compile->runtime]
@@ -732,7 +732,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudfront;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-kinesis;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-kinesis;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d4a698
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14abd449
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-kinesis;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-kinesis;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-kinesis;1.9.23 [compile->runtime]
@@ -740,7 +740,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-kinesis;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-opsworks;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-opsworks;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b548318
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78873da8
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-opsworks;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-opsworks;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-opsworks;1.9.23 [compile->runtime]
@@ -748,7 +748,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-opsworks;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ses;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-ses;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b6c919a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30e84302
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-ses;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-ses;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ses;1.9.23 [compile->runtime]
@@ -756,7 +756,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ses;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-autoscaling;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-autoscaling;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@744a0420
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ff02b24
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-autoscaling;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-autoscaling;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-autoscaling;1.9.23 [compile->runtime]
@@ -764,7 +764,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-autoscaling;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudsearch;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cloudsearch;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76362ca0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1525711b
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cloudsearch;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cloudsearch;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudsearch;1.9.23 [compile->runtime]
@@ -772,7 +772,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudsearch;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudwatchmetrics;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cloudwatchmetrics;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24e2295
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55405cb7
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cloudwatchmetrics;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cloudwatchmetrics;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudwatchmetrics;1.9.23 [compile->runtime]
@@ -780,7 +780,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudwatchmetrics;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-swf-libraries;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-swf-libraries;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ddb8d67
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2583fcb1
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-swf-libraries;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-swf-libraries;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-swf-libraries;1.9.23 [compile->runtime]
@@ -788,7 +788,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-swf-libraries;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-codedeploy;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-codedeploy;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1739ed86
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6da3e5b0
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-codedeploy;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-codedeploy;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-codedeploy;1.9.23 [compile->runtime]
@@ -796,7 +796,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-codedeploy;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-config;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-config;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21881210
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15e9817f
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-config;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-config;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-config;1.9.23 [compile->runtime]
@@ -804,7 +804,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-config;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-lambda;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-lambda;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45563e93
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21ff2bb8
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-lambda;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-lambda;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-lambda;1.9.23 [compile->runtime]
@@ -812,7 +812,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-lambda;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ecs;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-ecs;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d479543
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@316bc36b
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-ecs;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-ecs;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ecs;1.9.23 [compile->runtime]
@@ -820,7 +820,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ecs;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudhsm;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-cloudhsm;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bd5ebd3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cd7bded
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-cloudhsm;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-cloudhsm;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudhsm;1.9.23 [compile->runtime]
@@ -828,7 +828,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-cloudhsm;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ssm;1.9.23 [compile->default(compile)]
 [info] Resolving com.amazonaws#aws-java-sdk-ssm;1.9.23 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7abe75f2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c204de9
 [debug] sbt-chain: module revision found in cache: com.amazonaws#aws-java-sdk-ssm;1.9.23
 [debug] 	found com.amazonaws#aws-java-sdk-ssm;1.9.23 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ssm;1.9.23 [compile->runtime]
@@ -836,7 +836,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.amazonaws#aws-java-sdk-ssm;1.9.23 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.scala-logging#scala-logging-slf4j_2.11;2.1.2 [compile->default(compile)]
 [info] Resolving com.typesafe.scala-logging#scala-logging-slf4j_2.11;2.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6024e5fc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c69cd2
 [debug] sbt-chain: module revision found in cache: com.typesafe.scala-logging#scala-logging-slf4j_2.11;2.1.2
 [debug] 	found com.typesafe.scala-logging#scala-logging-slf4j_2.11;2.1.2 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.scala-logging#scala-logging-slf4j_2.11;2.1.2 [compile->runtime]
@@ -844,7 +844,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.scala-logging#scala-logging-slf4j_2.11;2.1.2 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.scala-logging#scala-logging-api_2.11;2.1.2 [compile->default(compile)]
 [info] Resolving com.typesafe.scala-logging#scala-logging-api_2.11;2.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@164052c9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@361fc2c
 [debug] sbt-chain: module revision found in cache: com.typesafe.scala-logging#scala-logging-api_2.11;2.1.2
 [debug] 	found com.typesafe.scala-logging#scala-logging-api_2.11;2.1.2 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.scala-logging#scala-logging-api_2.11;2.1.2 [compile->runtime]
@@ -852,7 +852,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->com.typesafe.scala-logging#scala-logging-api_2.11;2.1.2 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.1.3 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cd1f920
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51834dfa
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.1.3
 [debug] 	found ch.qos.logback#logback-classic;1.1.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.1.3 [compile->runtime]
@@ -860,7 +860,7 @@
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.1.3 [compile->master]
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.1.3 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cc57488
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f2e1906
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.1.3
 [debug] 	found ch.qos.logback#logback-core;1.1.3 in sbt-chain
 [debug] == resolving dependencies default#wisecrack$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.1.3 [compile->runtime]
@@ -7266,18 +7266,18 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(doc)
-[debug] :: resolution report :: resolve 7304ms :: artifacts dl 279ms
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 compile produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-compile.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 runtime produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-runtime.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 test produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-test.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 provided produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-provided.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 optional produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-optional.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 compile-internal produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-compile-internal.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 runtime-internal produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-runtime-internal.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 test-internal produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-test-internal.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 plugin produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-plugin.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 sources produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-sources.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 docs produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-docs.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 pom produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-pom.xml
-[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 scala-tool produced in /Users/utkarshashetye/GitHub/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (7304ms resolve - 279ms download)
+[debug] :: resolution report :: resolve 9132ms :: artifacts dl 224ms
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 compile produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-compile.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 runtime produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-runtime.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 test produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-test.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 provided produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-provided.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 optional produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-optional.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 compile-internal produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-compile-internal.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 runtime-internal produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-runtime-internal.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 test-internal produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-test-internal.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 plugin produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-plugin.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 sources produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-sources.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 docs produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-docs.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 pom produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-pom.xml
+[debug] 	report for default#wisecrack$sources_javadoc_2.11;1.0 scala-tool produced in /Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/resolution-cache/reports/default-wisecrack$sources_javadoc_2.11-scala-tool.xml
+[debug] 	resolve done (9132ms resolve - 224ms download)

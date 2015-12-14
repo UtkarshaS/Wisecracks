@@ -1,3 +1,5 @@
+import java.util.UUID
+
 import Responses.{GenericMessageObj, ResponseObj}
 import akka.actor.{Actor, ActorLogging}
 import com.fasterxml.jackson.databind.{JsonMappingException, ObjectMapper}
@@ -23,6 +25,8 @@ import spray.routing.{MalformedRequestContentRejection, ValidationRejection, Rej
 
     implicit def jacksonJsonMarshaller[T <: AnyRef] =
       Marshaller.delegate[T, String](ContentTypes.`application/json`)(mapper.writeValueAsString(_))
+
+  protected def uuid = UUID.randomUUID.toString
 
   }
 

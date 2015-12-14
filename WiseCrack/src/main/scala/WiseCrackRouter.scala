@@ -10,7 +10,7 @@ trait WiseCrackRouter extends Domain{
     this: PerRequestCreator =>
 
     def handleSensorDataRequest(createForumInput: CreateForumJson): Route = {
-      routeMessages(PostDataCollector.props, CreateNewForum(createForumInput), "Some message")
+      routeMessages(PostDataCollector.props, CreateNewForum(createForumInput), s"PostSensorDataController-$uuid")
     }
 
     val sensorDataRoutes = {

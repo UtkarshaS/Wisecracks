@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20151213185851"/>
+		date="20151213210239"/>
 	<dependencies>
 		<module organisation="com.typesafe.scala-logging" name="scala-logging-slf4j_2.11">
 			<revision name="2.1.2" status="release" pubdate="20140425062015" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typesafehub/scala-logging" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="103">

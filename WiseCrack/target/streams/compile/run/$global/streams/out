@@ -1,7 +1,7 @@
 [0m[[0minfo[0m] [0mRunning Boot [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/Users/utkarshashetye/GitHub/WiseCrack/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/utkarshashetye/GitHub/Wisecracks/WiseCrack/target/scala-2.11/classes[0m
 [0m[[0mdebug[0m] [0m	/Users/utkarshashetye/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/utkarshashetye/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/utkarshashetye/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar[0m
@@ -113,4 +113,4 @@
 [0m[[0mdebug[0m] [0m	/Users/utkarshashetye/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.1.3.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread data_api-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread data_api-akka.actor.default-dispatcher-5 to terminate.[0m
