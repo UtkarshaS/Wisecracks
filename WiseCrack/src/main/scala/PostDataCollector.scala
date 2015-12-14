@@ -20,7 +20,7 @@ class PostDataCollector extends Actor with ActorLogging{
   }
 
   private def sendReport(data: CreateForumJson) = {
-    context.parent ! RestResponse(Accepted,
-      SensorDataReport(data.userId, data.categoryid, CreateForumMessage("received")))
+    log.debug(context.parent.toString())
+    context.parent ! RestResponse(Accepted, SensorDataReport(data.userId, data.categoryid, CreateForumMessage("received")))
   }
 }

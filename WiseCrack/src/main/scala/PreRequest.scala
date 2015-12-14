@@ -92,7 +92,7 @@ trait PerRequestCreator  {
     context.actorOf(Props(new WithProps(r, props, message)), actorName)
 
   def routeMessages(controller: Props, message: ControllerMessage, name: String): Route = {
-    //log.debug(s"Creating actor - $name")
+    log.debug(s"Creating actor - $name")
     ctx => perRequest(ctx, controller, message, name)
   }
 }

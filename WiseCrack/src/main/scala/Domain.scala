@@ -102,3 +102,4 @@ object Responses {
 
   case class CreateForumMessage(message: String ="Forum created successfully")
   case class SensorDataReport(userId: Int, category: Int, msg: CreateForumMessage) extends ResponseObj
+  case class ReplyToForumJson(userId: Int)

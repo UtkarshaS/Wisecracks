@@ -20,7 +20,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka"               %% "akka-contrib"               % akkaVersion,
   "com.typesafe.akka"               %% "akka-slf4j"                 % akkaVersion,
   "io.spray"                        %% "spray-can"                  % sprayVersion,
-  //"io.spray"                        %% "spray-routing-shapeless2"   % sprayVersion exclude("com.chuusai", "shapeless_2.11"),
+  "io.spray"                        %% "spray-routing-shapeless2"   % sprayVersion, //exclude("com.chuusai", "shapeless_2.11"),
   "com.github.kikuomax"             %%  "spray-jwt-shapeless2"     % "0.0.1",
   "io.spray"                        %% "spray-json"                 % "1.3.2",
   "org.json4s"                      %% "json4s-native"              % "3.2.11",
