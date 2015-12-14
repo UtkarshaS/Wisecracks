@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.amazonaws:aws-java-sdk-codedeploy:1.9.23:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-codedeploy/jars/aws-java-sdk-codedeploy-1.9.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-codedeploy/docs/aws-java-sdk-codedeploy-1.9.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-codedeploy/srcs/aws-java-sdk-codedeploy-1.9.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
