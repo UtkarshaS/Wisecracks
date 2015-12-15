@@ -1,13 +1,16 @@
-class Subscriber{
+package main.java.wisecracks.data;
 
-    int subscriberId; //change to int in Db //Do we even need this ?
+import java.util.Date;
+
+class Subscriber {
+
+    int subscriberId;
     int forumId;
     Date subscriptionTime;
 
-    //Default contructor
-    public Subscriber(subscriberId, userId, forumId, sub){
-        this.subscriberId = subscriberId;
-        this.forumId = forumId;
-        this.subscriptionTime = subscriptionTime;
+    public Subscriber(int subscriberId, int userId, int forumId, Date subscriptionTime) {
+	this.subscriberId = subscriberId;
+	this.forumId = forumId;
+	this.subscriptionTime = subscriptionTime;
     }
 }
