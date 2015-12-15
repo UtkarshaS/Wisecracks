@@ -22,6 +22,10 @@ public class SqlPersistence {
 
     // region User related methods
 
+    public boolean checkUserExists(int userId){
+	    return true;
+    }
+
     public void insertUser(User user) throws Exception {
         PreparedStatement statement = null;
         try {
