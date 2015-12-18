@@ -52,10 +52,10 @@ public class EventfulApiIntegration {
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
-        return sortEventsByAsscendingDate(resultEvents);
+        return sortEventsByAscendingDate(resultEvents);
     }
 
-    public List<EventfulEventDto> searchCityDateCategory(String city, String category) {
+    public List<EventfulEventDto> searchCityCategory(String city, String category) {
         ArrayList<EventfulEventDto> resultEvents = new ArrayList<EventfulEventDto>();
         String correctString = replaceChars(city, " ", "+");
         try {
@@ -65,7 +65,7 @@ public class EventfulApiIntegration {
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
-        return sortEventsByAsscendingDate(resultEvents);
+        return sortEventsByAscendingDate(resultEvents);
     }
 
     public List<EventfulEventDto> searchNearbyEvents(double latitude, double longitude) {
@@ -78,10 +78,10 @@ public class EventfulApiIntegration {
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
-        return sortEventsByAsscendingDate(resultEvents);
+        return sortEventsByAscendingDate(resultEvents);
     }
 
-    private List<EventfulEventDto> sortEventsByAsscendingDate(List<EventfulEventDto> events) {
+    private List<EventfulEventDto> sortEventsByAscendingDate(List<EventfulEventDto> events) {
         Collections.sort(events, new Comparator<EventfulEventDto>() {
             @Override
             public int compare(EventfulEventDto o1, EventfulEventDto o2) {
