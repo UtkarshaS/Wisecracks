@@ -18,20 +18,20 @@ public class SqlPersistence {
         this.connection = createConnection();
     }
 
-    public static void main(String... rags) {
-        //Post post = new Post(1,2,"shweta2311","Hello everyone",new Date(0));
-        SqlPersistence sql = new SqlPersistence();
-        //sql.insertPost(post);
+//    public static void main(String... rags) {
+//        //Post post = new Post(1,2,"shweta2311","Hello everyone",new Date(0));
+//        SqlPersistence sql = new SqlPersistence();
+//        //sql.insertPost(post);
 //        String s = new String("shweta23");
-//        ArrayList<Forum> al = sql.getForumsInArea(10.0d,15.1d);
+//        ArrayList<Forum> al = sql.getAllForums(-1.265872350,2.578358770,"116282651442588691605");
 //        for(Forum f: al){
 //            for(Post p: f.relatedPosts) {
 //                System.out.print(p.forumId);
 //                System.out.println(p.postId);
 //            }
 //        }
-        sql.deleteForum(1);
-    }
+//        //sql.deleteForum(1);
+//    }
 
     // region User related methods
 
@@ -46,8 +46,8 @@ public class SqlPersistence {
     public void insertUser(User user) {
         PreparedStatement statement = null;
         try {
-            String insertStatement = "Insert into User(userId,firstName,lastName,addressLine1,addressLine2,city,country, profile) "
-                    + "values (?,?,?,?,?,?,?,?,now())";
+            String insertStatement = "Insert into User(userId,firstName,lastName,addressLine1,addressLine2,city,country, profile,registerationEndPoint) "
+                    + "values (?,?,?,?,?,?,?,?,now(),?)";
             statement = connection.prepareStatement(insertStatement);
             statement.setString(1, user.userId);
             statement.setString(2, user.firstName);
@@ -57,6 +57,7 @@ public class SqlPersistence {
             statement.setString(6, user.city);
             statement.setString(7, user.country);
             statement.setString(8, user.profile);
+            statement.setString(9, user.registerationEndPoint);
             statement.executeUpdate();
             connection.commit();
 
@@ -89,7 +90,7 @@ public class SqlPersistence {
             while (rs.next()) {
                 newUser = new User(rs.getString("firstName"), rs.getString("lastName"), rs.getString("addressLine1"),
                         rs.getString("addressLine2"), rs.getString("city"), rs.getString("country"),
-                        rs.getString("profile"), rs.getString("recentvisitedTime"));
+                        rs.getString("profile"), rs.getString("recentvisitedTime"),rs.getString("registerationEndPoint"));
             }
 
         } catch (SQLException e) {
@@ -143,7 +144,13 @@ public class SqlPersistence {
         }
 
     }
-
+    public ArrayList<Forum> getAllForums(double latitude, double longitude,String userId) {
+        ArrayList<Forum> forumResult = new ArrayList<Forum>();
+        forumResult.addAll(getForumsInArea(latitude,longitude));
+        forumResult.addAll(getForums(userId));
+        return forumResult;
+    }
+    
     // related to location
     public ArrayList<Forum> getForumsInArea(double latitude, double longitude) {
         PreparedStatement statement = null;
@@ -367,7 +374,7 @@ public class SqlPersistence {
         String jdbcUrl = "jdbc:mysql://" + hostname + ":" + port + "/" + dbName + "?user=" + userName + "&password="
                 + password;
         try {
-            DriverManager.registerDriver(new com.mysql.jdbc.Driver());
+            //DriverManager.registerDriver(new com.mysql.jdbc.Driver());
 
             Class.forName("com.mysql.jdbc.Driver");
             connection = DriverManager.getConnection(jdbcUrl);
