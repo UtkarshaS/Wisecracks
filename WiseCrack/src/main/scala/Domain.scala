@@ -2,8 +2,9 @@ import java.util.UUID
 
 import Responses.{GenericMessageObj, ResponseObj}
 import akka.actor.{Actor, ActorLogging}
+import com.amazonaws.util.json.JSONArray
+import com.fasterxml.jackson.databind.exc.{InvalidFormatException, UnrecognizedPropertyException}
 import com.fasterxml.jackson.databind.{JsonMappingException, ObjectMapper}
-import com.fasterxml.jackson.databind.exc.{UnrecognizedPropertyException, InvalidFormatException}
 import com.fasterxml.jackson.datatype.joda.JodaModule
 import com.fasterxml.jackson.module.scala.DefaultScalaModule
 import com.fasterxml.jackson.module.scala.experimental.ScalaObjectMapper
@@ -14,7 +15,7 @@ import spray.http._
 import spray.httpx.SprayJsonSupport
 import spray.httpx.marshalling.Marshaller
 import spray.httpx.unmarshalling.Unmarshaller
-import spray.routing.{MalformedRequestContentRejection, ValidationRejection, RejectionHandler, HttpService}
+import spray.routing.{HttpService, MalformedRequestContentRejection, RejectionHandler, ValidationRejection}
 
 
 /**
@@ -92,14 +93,49 @@ object Responses {
     case class GenericMessageObj(message: String) extends ResponseObj
   }
 
-  case class CreateForumJson(userId: Int,
-                            question: String,
-                           radius: String,
-                           lat: String,
-                           lng: String,
-                           categoryid: Int,
-                           created:String )
 
-  case class CreateForumMessage(message: String ="Forum created successfully")
-  case class SensorDataReport(userId: Int, category: Int, msg: CreateForumMessage) extends ResponseObj
-  case class ReplyToForumJson(userId: Int)
+  /////_______________________________ JSON format deserializable case classes _______________________________________
+  case class CreateForumJson(userId: String = "",
+                            title: String ="",
+                           radius: Int = 0,
+                           lat: Double =0,
+                           lng: Double = 0,
+                           categoryId: Int =0,
+                           createdDate:String = "") extends data.Forum
+
+  case class GetForumJson(userId: String,
+                          lat: Double,
+                          lng: Double)
+
+  case class GetPostJson(forumid: Int)
+
+  //case class CreateForumMessage(message: String ="Forum created successfully") extends ResponseObj
+  case class Forums(userId: String,
+                    question: String,
+                    radius: Int,
+                    lat: Double,
+                    lng: Double,
+                    categoryId: Int,
+                    created:String)
+
+  case class CheckUserRequestJson(userId: String,
+                                  fName: String,
+                                  lName: String,
+                                  email: String)
+
+  case class ReplyToForumJson(userId: String, comment: String, forumId: Int)
+
+  case class EndpointARNJson(registrationId: String)
+
+  /////____________________________________ Report Format classes _______________________________________
+  case class GetForumsReport(forumlist: JSONArray) extends ResponseObj
+
+  case class CreateForumReport(userId: String, category: Int, msg: String) extends ResponseObj
+
+  case class GetPostsReport() extends ResponseObj
+
+  case class CheckUserReport(message: String) extends ResponseObj
+
+  case class AddARNReport(message: String) extends ResponseObj
+
+  case class ReplyToForumReport(message: String) extends ResponseObj

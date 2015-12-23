@@ -2,6 +2,7 @@ name := "WiseCrack"
 
 version := "1.0"
 
+
 scalaVersion := "2.11.7"
 
 val akkaVersion = "2.4.0"
@@ -29,5 +30,6 @@ libraryDependencies ++= Seq(
   "io.github.cloudify"              %% "scalazon"                   % "0.11",
   "org.joda"                        %  "joda-convert"               % "1.2",
   "com.typesafe.scala-logging"      %% "scala-logging-slf4j"        % "2.1.2",
-  "ch.qos.logback"                  %  "logback-classic"            % logbackVersion
+  "ch.qos.logback"                  %  "logback-classic"            % logbackVersion,
+  "mysql" % "mysql-connector-java" % "5.1.12"
 )
