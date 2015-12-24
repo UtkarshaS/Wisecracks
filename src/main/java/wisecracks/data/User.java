@@ -10,9 +10,10 @@ public class User {
     final String city;
     final String country;
     final String profile;
+    final String registerationEndPoint;
 
     public User(String userId, String firstName, String lastName, String addressLine1, String addressLine2,
-	    String city, String country, String profile) {
+	    String city, String country, String profile,String registerationEndPoint ) {
 	this.userId = userId;
 	this.firstName = firstName;
 	this.lastName = lastName;
@@ -21,7 +22,7 @@ public class User {
 	this.city = city;
 	this.country = country;
 	this.profile = profile;
-
+    this.registerationEndPoint = registerationEndPoint;
     }
 
 }
