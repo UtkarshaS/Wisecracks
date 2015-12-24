@@ -228,6 +228,38 @@ public class SqlPersistence {
         }
         return forumResult;
     }
+    
+    public String getForumTitle(int forumId){
+    	PreparedStatement statement = null;
+        ResultSet rs = null;
+        String forumTopic = null;
+        try {
+            String selectStatement = "select title from Forum where forumId = ?";
+            statement = connection.prepareStatement(selectStatement);
+            statement.setString(1,forumId);
+            rs = statement.executeQuery();
+            forumTopic = rs.first().getString("title");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            if (rs != null) {
+                try {
+                    rs.close();
+                    postResultSet.close();  
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+            }
+            if (statement != null) {
+                try {
+                    statement.close();
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+        return forumTopic;
+    }
 
     // related to userId
     public ArrayList<Forum> getForums(String userId) {
