@@ -17,20 +17,11 @@ public class SqlPersistence {
         this.connection = createConnection();
     }
 
-//    public static void main(String... rags) {
-//        //Post post = new Post(1,2,"shweta2311","Hello everyone",new Date(0));
-//        SqlPersistence sql = new SqlPersistence();
-//        //sql.insertPost(post);
-//        String s = new String("shweta23");
-//        ArrayList<Forum> al = sql.getAllForums(-1.265872350,2.578358770,"116282651442588691605");
-//        for(Forum f: al){
-//            for(Post p: f.relatedPosts) {
-//                System.out.print(p.forumId);
-//                System.out.println(p.postId);
-//            }
-//        }
-//        //sql.deleteForum(1);
-//    }
+    public static void main(String... rags) {
+        //Post post = new Post(1,2,"shweta2311","Hello everyone",new Date(0));
+        SqlPersistence sql = new SqlPersistence();
+        sql.addEndPointARNForUser("116282651442588691605", "Hi");
+    }
 
     // region User related methods
 
@@ -39,7 +30,6 @@ public class SqlPersistence {
             return true;
         }
         return false;
-
     }
 
     public boolean loginUser(User user){
@@ -81,13 +71,37 @@ public class SqlPersistence {
         }
     }
 
+    public void addEndPointARNForUser(String userId, String registrationEndPoint){
+        PreparedStatement statement = null;
+        try {
+            String updateStatement = "update User set registrationEndPoint = ? where userId = ?";            
+            statement = connection.prepareStatement(updateStatement);
+            statement.setString(1, registrationEndPoint);
+            statement.setString(2, userId);
+            statement.executeUpdate();
+            //connection.commit();
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+
+        } finally {
+            if (statement != null) {
+                try {
+                    statement.close();
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+            }
+        }        
+    }
+    
     public User getUser(String userId) {
         PreparedStatement statement = null;
         User newUser = null;
         ResultSet rs = null;
         try {
            // System.out.println("hi");
-            String selectStatement = "Select firstName,lastName,addressLine1,addressLine2,city,country, profile, recentvisitedTime from User "
+            String selectStatement = "Select firstName,lastName,addressLine1,addressLine2,city,country, profile, recentvisitedTime, registerationEndPoint from User "
                     + " where userId = " + userId;
             statement = connection.prepareStatement(selectStatement);
            // System.out.println(selectStatement);
