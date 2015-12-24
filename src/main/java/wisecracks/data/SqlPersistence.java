@@ -2,7 +2,6 @@ package main.java.wisecracks.data;
 
 import java.sql.CallableStatement;
 import java.sql.Connection;
-import java.sql.Date;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -35,7 +34,7 @@ public class SqlPersistence {
 
     // region User related methods
 
-    public boolean checkUserExists(int userId) {
+    public boolean checkUserExists(String userId) {
         if (getUser(userId) != null) {
             return true;
         }
@@ -43,6 +42,13 @@ public class SqlPersistence {
 
     }
 
+    public boolean loginUser(User user){
+	if(!checkUserExists(user.userId)){
+	    insertUser(user);
+	}
+	return true;
+    }
+    
     public void insertUser(User user) {
         PreparedStatement statement = null;
         try {
@@ -57,7 +63,7 @@ public class SqlPersistence {
             statement.setString(6, user.city);
             statement.setString(7, user.country);
             statement.setString(8, user.profile);
-            statement.setString(9, user.registerationEndPoint);
+            statement.setString(9, user.registrationEndPoint);
             statement.executeUpdate();
             connection.commit();
 
@@ -75,7 +81,7 @@ public class SqlPersistence {
         }
     }
 
-    public User getUser(int userId) {
+    public User getUser(String userId) {
         PreparedStatement statement = null;
         User newUser = null;
         ResultSet rs = null;
